@@ -7,11 +7,13 @@ In the section below, I will take you through the task of Microsoft stock price 
 
 <h2>#Data</h2>
 To get started with the task of forecasting the Microsoft stock prices, you first need to have a dataset. So, to get a dataset for this task, just follow the steps mentioned below:
+<ul>
 
-Visit Yahoo Finance
-Search for “MSFT”
-Click on “Historical Data”
-Click on “Download”
+<li>Visit Yahoo Finance</li>
+<li>Search for “MSFT”</li>
+<li>Click on “Historical Data”</li>
+<li>Click on “Download”</li>
+</ul>
 After completing the steps mentioned above you will find a dataset about the historical stock prices of Microsoft in your downloads folder. Now let’s get started with the task of predicting the stock prices of Microsoft by importing the necessary Python libraries and the dataset:
 <h2>#Summary</h2>
 So this is how you can predict the stock prices of Microsoft with Machine Learning by using the Python programming language. Microsoft has once again garnered a lot of attention from the world as the release of Windows 11 is just around the corner. So this will be a good time to predict Microsoft’s stock price as it is getting a lot of attention. I hope you liked this article on the task of Microsoft Stock Price Prediction with Machine Learning using Python. Feel free to ask your valuable questions in the comments section below.
